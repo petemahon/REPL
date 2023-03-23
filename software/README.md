@@ -196,6 +196,8 @@
 
 - :heavy_dollar_sign: :cloud: [Codeanywhere](https://codeanywhere.com) - _"Share and collaborate on your code in real time. Whether you want to pair program, or just get some help from a friend. Codeanywhere makes it easy."_
 
+_ :cloud: [Phoenix Code Editor](https://phcode.dev/) - _"The cloud based offering from Brackets.io, Phoenix is a modern open-source IDE for the web, built for the browser."_
+
 ### Code snippets savers
 
 - :cloud: [Gist](https://gist.github.com) (from GitHub) - _"Instantly share code, notes, and snippets."_
